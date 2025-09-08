@@ -1,8 +1,8 @@
 ## Fala pessoal, aqui é o Kauan 👋
 
-| Curso Análise e Desenvolvimento de Sistemas.
-| Estudo Desenvolvimento Web, Análise de Dados, Estrutura de Dados.
-| Amo aprender e busco sempre novos objetivos.
+| Curso Análise e Desenvolvimento de Sistemas. <br>
+| Estudo Desenvolvimento Web, Análise de Dados, Estrutura de Dados. <br>
+| Amo aprender e busco sempre novos objetivos. <br>
 
 <div>
   <a href="https://github.com/Jabu-BG">
