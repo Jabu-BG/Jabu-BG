@@ -1,11 +1,21 @@
-## Fala pessoal, aqui é o Kauan 👋
+# Olá, sou Kauan! 👋
+Bem-vindo ao meu perfil no GitHub.
 
-| Curso Análise e Desenvolvimento de Sistemas. <br>
-| Estudo Desenvolvimento Web, Análise de Dados, Estrutura de Dados. <br>
-| Amo aprender e busco sempre novos objetivos. <br>
+  ## Sobre Mim
+  - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (2º período)
+  - 💻 Apaixonado por Desenvolvimento Web, Análise de Dados e Estruturas de Dados
+  - 🎯 Sempre em busca de novos desafios e aprendizado contínuo
 
-<div>
-  <a href="https://github.com/Jabu-BG">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jabu-BG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabu-BG&layout=compact&langs_count=16&theme=dark"/>
-</div>
+  ## Habilidades
+  - Linguagens: JavaScript, Python, HTML, CSS
+  - Ferramentas: GitHub, VS Code, Pycharm.
+
+## Projetos Destacados:
+
+- [Repositório 1](link-do-repositorio-1): Meus Codigos em C
+  - [Repositório 2](link-do-repositorio-2): Meus Codigos em Python
+
+  ## Contatos
+  - 📧 Email: casemirokauan491@gmail.com
+  - 📞 Telefone: (+55) 21 99256 2562
+
