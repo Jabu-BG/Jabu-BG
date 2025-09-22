@@ -12,8 +12,7 @@ Bem-vindo ao meu perfil no GitHub.
 
 ## Projetos Destacados:
 
-- [Repositório 1](link-do-repositorio-1): Meus Codigos em C
-- [Repositório 2](link-do-repositorio-2): Meus Codigos em Python
+- [Codigos em C] (https://github.com/Jabu-BG/Codigos-em-C): Meus Codigos em C
 
   ## Contatos
   - 📧 Email: casemirokauan491@gmail.com
